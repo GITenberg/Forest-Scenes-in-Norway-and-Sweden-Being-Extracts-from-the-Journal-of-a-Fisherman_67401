@@ -1,0 +1,35 @@
+_repo: Forest-Scenes-in-Norway-and-Sweden-Being-Extracts-from-the-Journal-of-a-Fisherman_67401
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Newland, Henry
+    alias: Newland, Henry Garrett
+    birthdate: 1804
+    deathdate: 1860
+    gutenberg_agent_id: '54258'
+    url: http://www.gutenberg.org/2009/agents/54258
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Garrett_Newland
+description: ''
+gutenberg_issued: '2022-02-13'
+identifiers:
+  gutenberg: '67401'
+  lccn: '05010407'
+language: en
+pgterms:marc904: http://www.archive.org/details/forestscenesinno00newlrich
+pgterms:marc905: 20080222185130newland
+pgterms:marc906: '1855'
+pgterms:marc907: GB
+production_note: Charlene Taylor, Bryan Ness and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United Kingdom :G. Routledge & Co.,1855.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scandinavia -- Description and travel'
+- !lcsh 'Fishing -- Scandinavia'
+- !lcc 'DL'
+- GITenberg
+title: 'Forest Scenes in Norway and Sweden: Being Extracts from the Journal of a Fisherman'
+url: http://www.gutenberg.org/ebooks/67401
