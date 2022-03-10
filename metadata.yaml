@@ -1,5 +1,8 @@
 _repo: Forest-Scenes-in-Norway-and-Sweden-Being-Extracts-from-the-Journal-of-a-Fisherman_67401
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67401-h/images/cover.jpg
 creator:
   author:
     agent_name: Newland, Henry
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54258
     wikipedia: https://en.wikipedia.org/wiki/Henry_Garrett_Newland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67401#Forest-Scenes-in-Norway-and-Sweden-Being-Extracts-from-the-Journal-of-a-Fisherman
 gutenberg_issued: '2022-02-13'
 identifiers:
   gutenberg: '67401'
